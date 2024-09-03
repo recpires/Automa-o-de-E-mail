@@ -92,6 +92,21 @@ section button:hover {
     color: #30475E; /* Cor do texto dos links */
 }
 
+.item-resultado img {
+    float: left;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+  
+.item-resultado img:hover {
+    transform: scale(1.1);
+}
+
 /* Estiliza os links quando são passados o mouse sobre */
 .item-resultado a:hover {
     text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
