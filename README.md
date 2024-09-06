@@ -1,4 +1,4 @@
-## Aplicação de Busca de Motocicletas
+## Aplicação de Busca de Motocicletas Imersão Alura-GogleGemini
 
 **Descrição:**
 Esta aplicação web permite aos usuários pesquisarem por modelos de motocicletas em um banco de dados. Ao inserir um modelo específico, o sistema retorna uma lista de resultados relevantes, incluindo imagem, descrição e link para mais informações.
