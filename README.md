@@ -24,15 +24,6 @@
 
 * acesse através do link https://imersao-alura-gemini-umber.vercel.app.
 
-*Exemplo:*
-Clone o repositório:
-git clone https://github.com/seu-usuario/catalogo-motocicletas.git
-Instale as dependências:
-cd catalogo-motocicletas
-npm install
-Inicie o projeto:
-npm start
-
 ### 5. **Contribuições:**
 
 * oontribua com o projeto, para podermos acrescentar mais tecnologia e utilizar um banco de dados mais robusto.
@@ -50,32 +41,6 @@ npm start
 ### 7. **Próximos Passos:**
 
 * Liste as próximas etapas do projeto, como novas funcionalidades ou melhorias.
-
-**Exemplo Completo:**
-
-```markdown
-# Imersão Alura-Gemini: Catálogo de Motocicletas para Motociclistas Brasileiros
-
-Este projeto, desenvolvido durante a Imersão Alura-Gemini, tem como objetivo criar um catálogo completo de motocicletas para motociclistas brasileiros. A plataforma oferece informações detalhadas sobre diversos modelos, como especificações técnicas, fotos e vídeos, além de permitir que os usuários comparem diferentes opções e encontrem a moto ideal para suas necessidades.
-
-## Tecnologias Utilizadas
-* **Front-end:** React, Material UI, JavaScript, HTML, CSS
-* **Back-end:** dados.js, app.js
-
-## Como Usar
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/catalogo-motocicletas.git](https://github.com/seu-usuario/catalogo-motocicletas.git)
-   ```
-2. **Instale as dependências:**
-   ```bash
-   cd catalogo-motocicletas
-   npm install
-   ```
-3. **Inicie o projeto:**
-   ```bash
-   npm start
-   ```
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue. Para contribuir com o código, faça um fork do repositório, crie um branch e envie um pull request.
