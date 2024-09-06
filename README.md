@@ -49,3 +49,5 @@ classDiagram
 
     Motocicleta --|> Busca
     Usuario --o> Motocicleta
+
+Acesse a pagina através do link: https://imersao-alura-gemini-umber.vercel.app/
